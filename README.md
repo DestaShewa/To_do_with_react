@@ -59,3 +59,24 @@ npm install
 
 # 4. Start the development server
 npm run dev
+
+
+
+🧱 Project Structure
+
+/
+├── src/
+│   ├── components/       # Reusable components
+│   │   ├── TodoFilter.jsx
+│   │   ├── TodoFooter.jsx
+│   │   ├── TodoForm.jsx
+│   │   ├── TodoItem.jsx
+│   │   ├── TodoList.jsx
+│   │   └── TodoSearch.jsx
+│   ├── App.jsx           # Main app logic and state
+│   ├── index.css         # Tailwind base and custom styles
+│   └── main.jsx          # React entry point
+├── index.html            # Root HTML
+├── package.json          # Project metadata and scripts
+└── README.md             # This file
+
