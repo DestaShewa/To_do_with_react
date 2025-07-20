@@ -1,6 +1,6 @@
-# 📝 Advanced React To-Do List Application
+# 📝 To_do_app_with_react
 
-![Demo](./demo.gif)
+![Demo](./index.html)
 
 > *(Create a GIF like this with free tools such as Giphy Capture (Mac) or ScreenToGif (Windows))*
 
@@ -80,3 +80,22 @@ npm run dev
 ├── package.json          # Project metadata and scripts
 └── README.md             # This file
 
+
+
+
+🔮 Future Improvements
+Some potential next features:
+
+🔄 Drag-and-Drop Reordering
+
+🌗 Light/Dark Mode
+
+🌀 Smooth Animations (with Framer Motion)
+
+☁️ Backend Integration (e.g. Firebase, Node.js + MongoDB)
+
+
+
+📄 License
+MIT License
+© 2025 Desta Shewa
